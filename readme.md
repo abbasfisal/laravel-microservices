@@ -126,3 +126,8 @@ This type of communication can be achieved by using messaging or events.
 unit tested. Functionality of the whole flow should be functionally tested.
 - This is a setup that is using older versions of Docker, Laravel/Lumen. Update them in order to be able to
 use their latest features.
+
+<hr>
+# some other resources for learing
+<li>https://medium.com/@OlabodeAbesin/microservice-architecture-the-complete-guide-357bf7131cf1</li>
+<li>https://github.com/OlabodeAbesin/Microservices-with-Lumen</li>

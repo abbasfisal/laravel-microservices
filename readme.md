@@ -133,4 +133,3 @@ use their latest features.
 -------------
 - [article in medium](https://medium.com/@OlabodeAbesin/microservice-architecture-the-complete-guide-357bf7131cf1)
 - [Git: Microservice with Lumen](https://github.com/OlabodeAbesin/Microservices-with-Lumen)
-- [api gateway](api-gateway/readme.md)
